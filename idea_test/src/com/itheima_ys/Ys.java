@@ -10,7 +10,9 @@ public class Ys {
 
     public static void main(String[] args) {
         int bcs = 28;
-        int cs = 7;
+        int cs = 23;
+
+
         int i = 0;
         while (bcs>=cs){
             bcs = bcs - cs;
